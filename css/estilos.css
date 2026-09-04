@@ -1,0 +1,46 @@
+
+.navegador{
+	text-decoration:none;
+	display:flex;
+	list-style:none;
+	gap:30px;
+	text-align: center;
+	justify-content:center;
+
+}
+#Inicio{
+	font-size: 35;
+	background-color: black;
+	color:white;
+	padding:25px;
+	text-align: center;
+}
+#Distritos{
+background-color:LightCyan;
+padding:25px;
+}
+
+h2{
+	font-size: 25;
+	background-color: gray;
+	font-weight:900;
+	
+}
+
+
+#Rutasculturales{
+	background-color:LightYellow;
+	padding:25px;
+}
+
+#contacto{
+	background-color:Lavender;
+	padding:25px;
+}
+
+.pie{
+	color:gray;
+}
+body {
+text-align: center;	
+}
